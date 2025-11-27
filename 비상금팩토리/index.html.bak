@@ -1,0 +1,498 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+  <head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+<!-- 기본 SEO -->
+<title>비상금팩토리 | 정부 비상금·지원금·긴급자금 최신 정보 즉시 확인</title>
+<meta name="description" content="비상금팩토리는 정부 비상금, 긴급지원금, 생활안정자금, 소액대출 신청 정보를 빠르게 안내하는 종합 비상금 정보 플랫폼입니다. 지원대상, 신청방법, 지급일정까지 비상금팩토리에서 즉시 확인하세요." />
+<link rel="canonical" href="https://example.com/" />
+
+<!-- Open Graph -->
+<meta property="og:locale" content="ko_KR" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="비상금팩토리 | 정부 비상금·긴급지원금 총정리" />
+<meta property="og:description" content="정부 비상금과 긴급자금 정보를 한 눈에! 비상금팩토리에서 지원대상·신청절차·지급일정을 가장 빠르게 확인하세요." />
+<meta property="og:url" content="https://example.com/" />
+<meta property="og:site_name" content="비상금팩토리" />
+<meta property="og:image" content="https://example.com/og-image.jpg" />
+
+<!-- Twitter 카드 -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="비상금팩토리 | 정부 비상금·지원금 신청 안내" />
+<meta name="twitter:description" content="비상금팩토리에서 정부 비상금·긴급자금·생활안정지원금 정보를 빠르게 확인하고 신청 절차까지 한 번에 안내받으세요." />
+<meta name="twitter:image" content="https://example.com/og-image.jpg" />
+
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Additional CSS Files -->
+    <link rel="stylesheet" href="assets/css/fontawesome.css">
+    <link rel="stylesheet" href="assets/css/templatemo-space-dynamic.css">
+    <link rel="stylesheet" href="assets/css/animated.css">
+    <link rel="stylesheet" href="assets/css/owl.css">
+  </head>
+<body>
+            <a href="index.html" class="logo">
+              <h1>비상금 팩토리</h1>
+            </a>
+  <!-- ***** Header Area End ***** -->
+  <div class="main-banner wow fadeIn" id="top" data-wow-duration="1s" data-wow-delay="0.5s">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <div class="row">
+            <div class="col-lg-6 align-self-center">
+              <div class="left-content header-text wow fadeInLeft" data-wow-duration="1s" data-wow-delay="1s">
+
+                <h6>빠르고 정확한 현금화 솔루션</h6>
+                <h2>
+                  <em>비상금팩토리</em>에서  
+                  <span>가장 빠르게</span>  
+                  당신의 자금을 현실로 바꿉니다
+                </h2>
+
+                <p>
+                  비상금팩토리는 복잡한 절차 없이 누구나 쉽고 빠르게 이용할 수 있는  
+                  <strong>전문 현금화·비상금 생성 플랫폼</strong>입니다.  
+                  당일 입금, 높은 승인률, 신용 영향 없이  
+                  가장 안전하고 빠른 자금 해결을 제공합니다.
+                </p>
+
+                <form id="search" action="#" method="GET">
+                  <fieldset>
+                    <input type="address" name="address" class="email" placeholder="간단한 상담용 연락처 입력..." autocomplete="on" required>
+                  </fieldset>
+                  <fieldset>
+                    <button type="submit" class="main-button">빠른 상담 받기</button>
+                  </fieldset>
+                </form>
+
+              </div>
+            </div>
+
+            <div class="col-lg-6">
+              <div class="right-image wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.5s">
+                <img src="assets/images/banner-right-image.png" alt="team meeting">
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="about" class="about-us section">
+    <div class="container">
+      <div class="row">
+
+        <div class="col-lg-4">
+          <div class="left-image wow fadeIn" data-wow-duration="1s" data-wow-delay="0.2s">
+            <img src="assets/images/about-left-image.png" alt="비상금팩토리 현금화 서비스">
+          </div>
+        </div>
+
+        <div class="col-lg-8 align-self-center">
+          <div class="services">
+            <div class="row">
+
+              <div class="col-lg-6">
+                <div class="item wow fadeIn" data-wow-duration="1s" data-wow-delay="0.5s">
+                  <div class="icon">
+                    <img src="assets/images/service-icon-01.png" alt="즉시 현금화 분석">
+                  </div>
+                  <div class="right-text">
+                    <h4>빠른 승인 데이터 분석</h4>
+                    <p>비상금팩토리는 고객별 맞춤 승인율 분석으로 가장 빠른 현금화를 실현합니다.</p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-lg-6">
+                <div class="item wow fadeIn" data-wow-duration="1s" data-wow-delay="0.7s">
+                  <div class="icon">
+                    <img src="assets/images/service-icon-02.png" alt="정확한 현금화 진행">
+                  </div>
+                  <div class="right-text">
+                    <h4>정확한 현금화 리포트</h4>
+                    <p>이용 절차와 예상 금액을 투명하게 안내하여 고객이 가장 유리한 선택을 할 수 있도록 돕습니다.</p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-lg-6">
+                <div class="item wow fadeIn" data-wow-duration="1s" data-wow-delay="0.9s">
+                  <div class="icon">
+                    <img src="assets/images/service-icon-03.png" alt="비상금 플랫폼 분석">
+                  </div>
+                  <div class="right-text">
+                    <h4>전문 비상금 플랫폼 분석</h4>
+                    <p>누구나 간편하게 사용할 수 있는 현금화 플랫폼으로 높은 만족도를 제공합니다.</p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-lg-6">
+                <div class="item wow fadeIn" data-wow-duration="1s" data-wow-delay="1.1s">
+                  <div class="icon">
+                    <img src="assets/images/service-icon-04.png" alt="현금화 최적화">
+                  </div>
+                  <div class="right-text">
+                    <h4>현금화 최적화 가이드</h4>
+                    <p>비상금팩토리는 최적의 현금화 전략을 제시하여 빠른 자금 확보를 도와드립니다.</p>
+                  </div>
+                </div>
+              </div>
+
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+  <div id="services" class="our-services section">
+    <div class="container">
+      <div class="row">
+
+        <div class="col-lg-6 align-self-center wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.2s">
+          <div class="left-image">
+            <img src="assets/images/services-left-image.png" alt="비상금팩토리 즉시 현금화 서비스">
+          </div>
+        </div>
+
+        <div class="col-lg-6 wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.2s">
+          <div class="section-heading">
+            <h2>
+              비상금팩토리와 함께라면  
+              <em>빠른 현금화</em> &amp;  
+              <span>즉시 자금 확보</span> 가능합니다
+            </h2>
+            <p>
+              비상금팩토리는 복잡한 절차 없이 누구나 빠르게 자금을 확보할 수 있는 
+              국내 대표 현금화 전문 플랫폼입니다.  
+              승인 난이도가 높은 경우에도, 최적의 상담과 솔루션으로 고객에게 가장 빠른 결과를 제공합니다.
+            </p>
+          </div>
+
+          <div class="row">
+            <div class="col-lg-12">
+              <div class="first-bar progress-skill-bar">
+                <h4>즉시 현금화 성공률</h4>
+                <span>93%</span>
+                <div class="filled-bar"></div>
+                <div class="full-bar"></div>
+              </div>
+            </div>
+
+            <div class="col-lg-12">
+              <div class="second-bar progress-skill-bar">
+                <h4>최적화된 현금화 리포트 제공</h4>
+                <span>90%</span>
+                <div class="filled-bar"></div>
+                <div class="full-bar"></div>
+              </div>
+            </div>
+
+            <div class="col-lg-12">
+              <div class="third-bar progress-skill-bar">
+                <h4>고객 맞춤 자금 솔루션</h4>
+                <span>97%</span>
+                <div class="filled-bar"></div>
+                <div class="full-bar"></div>
+              </div>
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+    </div>
+  </div>
+  <div id="portfolio" class="our-portfolio section">
+    <div class="container">
+
+      <div class="row">
+        <div class="col-lg-6 offset-lg-3">
+          <div class="section-heading wow bounceIn" data-wow-duration="1s" data-wow-delay="0.2s">
+            <h2>
+              비상금팩토리가 제공하는  
+              <em>현금화 서비스</em> &amp;  
+              <span>전문 솔루션</span>
+            </h2>
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+
+        <div class="col-lg-3 col-sm-6">
+          <a href="#">
+            <div class="item wow bounceInUp" data-wow-duration="1s" data-wow-delay="0.3s">
+              <div class="hidden-content">
+                <h4>즉시 현금화 분석</h4>
+                <p>비상금팩토리는 고객에게 가장 빠른 현금화를 제공하기 위해 개별 데이터를 세밀하게 분석합니다.</p>
+              </div>
+              <div class="showed-content">
+                <img src="assets/images/portfolio-image.png" alt="비상금팩토리 즉시 현금화 서비스">
+              </div>
+            </div>
+          </a>
+        </div>
+
+        <div class="col-lg-3 col-sm-6">
+          <a href="#">
+            <div class="item wow bounceInUp" data-wow-duration="1s" data-wow-delay="0.4s">
+              <div class="hidden-content">
+                <h4>현금화 진행 리포트</h4>
+                <p>모든 절차를 투명하게 안내하여 고객이 더 빠르고 안전하게 비상금을 확보할 수 있도록 돕습니다.</p>
+              </div>
+              <div class="showed-content">
+                <img src="assets/images/portfolio-image.png" alt="비상금팩토리 리포트 제공">
+              </div>
+            </div>
+          </a>
+        </div>
+
+        <div class="col-lg-3 col-sm-6">
+          <a href="#">
+            <div class="item wow bounceInUp" data-wow-duration="1s" data-wow-delay="0.5s">
+              <div class="hidden-content">
+                <h4>승인률 향상 서비스</h4>
+                <p>어려운 승인 조건도 해결하는 맞춤형 전략으로 높은 승인률을 자랑합니다.</p>
+              </div>
+              <div class="showed-content">
+                <img src="assets/images/portfolio-image.png" alt="승인률 최적화 서비스">
+              </div>
+            </div>
+          </a>
+        </div>
+
+        <div class="col-lg-3 col-sm-6">
+          <a href="#">
+            <div class="item wow bounceInUp" data-wow-duration="1s" data-wow-delay="0.6s">
+              <div class="hidden-content">
+                <h4>비상금 전략 컨설팅</h4>
+                <p>비상금팩토리의 전문 컨설턴트가 최적의 현금화 전략을 제안하여 당일 자금 확보를 도와드립니다.</p>
+              </div>
+              <div class="showed-content">
+                <img src="assets/images/portfolio-image.png" alt="비상금 전략">
+              </div>
+            </div>
+          </a>
+        </div>
+
+      </div>
+
+    </div>
+  </div>
+  <div id="blog" class="our-blog section">
+    <div class="container">
+
+      <div class="row">
+        <div class="col-lg-6 wow fadeInDown" data-wow-duration="1s" data-wow-delay="0.25s">
+          <div class="section-heading">
+            <h2>
+              비상금팩토리가 전하는  
+              <em>현금화 트렌드</em> &amp;  
+              <span>핫 이슈 정보</span>
+            </h2>
+          </div>
+        </div>
+        <div class="col-lg-6 wow fadeInDown" data-wow-duration="1s" data-wow-delay="0.25s">
+          <div class="top-dec">
+            <img src="assets/images/blog-dec.png" alt="">
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+
+        <!-- 좌측 메인 블로그 -->
+        <div class="col-lg-6 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.25s">
+          <div class="left-image">
+            <a href="#"><img src="assets/images/big-blog-thumb.jpg" alt="비상금팩토리 현금화 정보"></a>
+            <div class="info">
+              <div class="inner-content">
+                <ul>
+                  <li><i class="fa fa-calendar"></i> 24 Mar 2025</li>
+                  <li><i class="fa fa-users"></i> 비상금팩토리</li>
+                  <li><i class="fa fa-folder"></i> 현금화 정보</li>
+                </ul>
+                <a href="#"><h4>당일 현금화 성공률을 높이는 핵심 전략</h4></a>
+                <p>
+                  빠르게 자금이 필요한 사람이라면 반드시 알아야 하는 **즉시 현금화 핵심 전략**을 정리했습니다.  
+                  비상금팩토리가 추천하는 승인률 상승 팁과 최신 트렌드를 한 번에 확인하세요.
+                </p>
+                <div class="main-blue-button">
+                  <a href="#">더 알아보기</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- 우측 리스트 블로그 -->
+        <div class="col-lg-6 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.25s">
+          <div class="right-list">
+            <ul>
+
+              <li>
+                <div class="left-content align-self-center">
+                  <span><i class="fa fa-calendar"></i> 18 Mar 2025</span>
+                  <a href="#"><h4>승인 잘 되는 현금화 조건 TOP 5</h4></a>
+                  <p>
+                    비상금팩토리가 분석한 ‘승인 잘 되는 고객 패턴’ 기반  
+                    현금화 성공률을 극대화하는 핵심 요소들을 확인하세요.
+                  </p>
+                </div>
+                <div class="right-image">
+                  <a href="#"><img src="assets/images/blog-thumb-01.jpg" alt="현금화 승인 조건"></a>
+                </div>
+              </li>
+
+              <li>
+                <div class="left-content align-self-center">
+                  <span><i class="fa fa-calendar"></i> 14 Mar 2025</span>
+                  <a href="#"><h4>빠른 비상금 확보를 위한 실전 가이드</h4></a>
+                  <p>
+                    당일 비상금이 필요한 상황에서 가장 효율적으로 자금을 확보할 수 있는  
+                    실전 가이드를 정리했습니다.
+                  </p>
+                </div>
+                <div class="right-image">
+                  <a href="#"><img src="assets/images/blog-thumb-01.jpg" alt="비상금 가이드"></a>
+                </div>
+              </li>
+
+              <li>
+                <div class="left-content align-self-center">
+                  <span><i class="fa fa-calendar"></i> 06 Mar 2025</span>
+                  <a href="#"><h4>최신 현금화 시장 트렌드 & 분석</h4></a>
+                  <p>
+                    현금화 시장은 빠르게 변화하고 있습니다.  
+                    비상금팩토리가 직접 분석한 최신 트렌드를 한눈에 확인하세요.
+                  </p>
+                </div>
+                <div class="right-image">
+                  <a href="#"><img src="assets/images/blog-thumb-01.jpg" alt="현금화 시장 트렌드"></a>
+                </div>
+              </li>
+
+            </ul>
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+  </div>
+  <div id="contact" class="contact-us section">
+    <div class="container">
+      <div class="row">
+
+        <!-- LEFT TEXT AREA -->
+        <div class="col-lg-6 align-self-center wow fadeInLeft" data-wow-duration="0.5s" data-wow-delay="0.25s">
+          <div class="section-heading">
+            <h2>비상금이 급한가요?<br>비상금팩토리가 즉시 해결해드립니다.</h2>
+            <p>
+              당일 현금화, 빠른 비상금 확보, 승인률 높은 서비스가 필요하다면 지금 바로 문의하세요.  
+              비상금팩토리는 최적의 조건으로 고객님의 상황에 맞춰 가장 빠르고 정확한 솔루션을 제공합니다.
+            </p>
+            <div class="phone-info">
+              <h4>빠른 상담 문의: 
+                <span><i class="fa fa-phone"></i> 
+                  <a href="#">010-020-0340</a>
+                </span>
+              </h4>
+            </div>
+          </div>
+        </div>
+
+        <!-- RIGHT FORM AREA -->
+        <div class="col-lg-6 wow fadeInRight" data-wow-duration="0.5s" data-wow-delay="0.25s">
+          <form id="contact" action="" method="post">
+            <div class="row">
+
+              <div class="col-lg-6">
+                <fieldset>
+                  <input type="name" name="name" id="name" placeholder="이름" autocomplete="on" required>
+                </fieldset>
+              </div>
+
+              <div class="col-lg-6">
+                <fieldset>
+                  <input type="surname" name="surname" id="surname" placeholder="연락처" autocomplete="on" required>
+                </fieldset>
+              </div>
+
+              <div class="col-lg-12">
+                <fieldset>
+                  <input type="text" name="email" id="email" pattern="[^ @]*@[^ @]*"
+                         placeholder="이메일(선택)" required="">
+                </fieldset>
+              </div>
+
+              <div class="col-lg-12">
+                <fieldset>
+                  <textarea name="message" type="text" class="form-control" id="message"
+                            placeholder="문의 내용을 입력해주세요. (예: 즉시 현금화, 승인 여부 확인 등)" required=""></textarea>
+                </fieldset>
+              </div>
+
+              <div class="col-lg-12">
+                <fieldset>
+                  <button type="submit" id="form-submit" class="main-button">
+                    비상금팩토리 상담 요청하기
+                  </button>
+                </fieldset>
+              </div>
+
+            </div>
+
+            <div class="contact-dec">
+              <img src="assets/images/contact-decoration.png" alt="">
+            </div>
+          </form>
+        </div>
+
+      </div>
+    </div>
+  </div>
+  <footer>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.25s">
+          
+          <p>
+            <strong>비상금팩토리 — 가장 빠르고 안전한 비상금·현금화 솔루션</strong><br>
+            갑작스러운 자금 문제, 급전 필요, 당일 현금화가 필요하다면 비상금팩토리가 여러분의 든든한 파트너가 되어드립니다.<br>
+            안정적인 서비스·신뢰 기반 상담·높은 승인률을 통해 언제든 즉시 해결해드립니다.
+          </p>
+
+          <br>
+          <p>
+            상담 문의 : <a href="#">010-020-0340</a>  
+            &nbsp; | &nbsp;  
+            이메일 : <a href="#">info@company.co</a>
+          </p>
+
+          <br>
+          <p>
+            © Copyright 2024 비상금팩토리. All Rights Reserved.
+            <br>Design: <a rel="nofollow" href="https://templatemo.com">TemplateMo</a>
+          </p>
+
+        </div>
+      </div>
+    </div>
+  </footer>
+
+
+</html>
